@@ -1,56 +1,56 @@
 [[redirects]]
 
-    from = "/"
-    to = "https://medium.com/reflections"
-    status = 302
-    force = true
+  from = "/"
+  to = "https://medium.com/reflections"
+  status = 302
+  force = true
 
 [[redirects]]
 
-    from = "/feed"
-    to = "https://medium.com/feed/reflections/"
-    status = 302
-    force = true
+  from = "/feed"
+  to = "https://medium.com/feed/reflections/"
+  status = 302
+  force = true
 
 [[redirects]]
 
-    from = "/context-menus-and-the-design-of-design"
-    to = "https://medium.com/reflections/context-menus-and-the-design-of-design-2d656ebbf633"
-    status = 302
-    force = true
+  from = "/context-menus-and-the-design-of-design"
+  to = "https://medium.com/reflections/context-menus-and-the-design-of-design-2d656ebbf633"
+  status = 302
+  force = true
 
 [[redirects]]
 
-    from = "/determining-whether-users-are-logged-into-twitter"
-    to = "https://medium.com/reflections/determining-whether-users-are-logged-into-twitter-21c0638339a7"
-    status = 302
-    force = true
+  from = "/determining-whether-users-are-logged-into-twitter"
+  to = "https://medium.com/reflections/determining-whether-users-are-logged-into-twitter-21c0638339a7"
+  status = 302
+  force = true
 
 [[redirects]]
 
-    from = "/using-the-optimizely-api-to-avoid-flashes-of-unstyled-content-in-ab-tests"
-    to = "https://medium.com/reflections/using-the-optimizely-api-to-avoid-flashes-of-unstyled-content-in-a-b-tests-32c314c14caa"
-    status = 302
-    force = true
+  from = "/using-the-optimizely-api-to-avoid-flashes-of-unstyled-content-in-ab-tests"
+  to = "https://medium.com/reflections/using-the-optimizely-api-to-avoid-flashes-of-unstyled-content-in-a-b-tests-32c314c14caa"
+  status = 302
+  force = true
 
 [[redirects]]
 
-    from = "/less-is-more"
-    to = "https://medium.com/reflections/less-is-more-ec1c40534826"
-    status = 302
-    force = true
+  from = "/less-is-more"
+  to = "https://medium.com/reflections/less-is-more-ec1c40534826"
+  status = 302
+  force = true
 
 [[redirects]]
 
-    from = "/when-a-readme-accidentally-becomes-a-manifesto"
-    to = "https://medium.com/reflections/when-a-readme-accidentally-becomes-a-manifesto-9b5f571b4c8d"
-    status = 302
-    force = true
+  from = "/when-a-readme-accidentally-becomes-a-manifesto"
+  to = "https://medium.com/reflections/when-a-readme-accidentally-becomes-a-manifesto-9b5f571b4c8d"
+  status = 302
+  force = true
 
 # Everything else
 [[redirects]]
 
-    from = "/*"
-    to = "https://medium.com/reflections"
-    status = 302
-    force = true
+  from = "/*"
+  to = "https://medium.com/reflections"
+  status = 302
+  force = true
